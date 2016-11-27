@@ -1,0 +1,23 @@
+.container.ch {
+    margin-top: 43px;
+}
+
+.thumbnail-ch {
+    background-color: #499dc0;
+    box-shadow: 0 0 5px #499dc0;
+}
+
+.h3-ch {
+    color: ivory;
+    text-transform: capitalize;
+    margin-top: 3px;
+}
+
+.p-ch {
+    color: ivory;
+    margin: 7px 0px -5px 0px;
+}
+
+.btn-group.group-ch {
+    margin-top: 7px;
+}

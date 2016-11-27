@@ -1,0 +1,71 @@
+.table-responsive {
+    margin-top: 39px;
+}
+
+input[type="checkbox"] {
+    margin: 11px 0px 0;
+}
+
+.table > tbody > tr > td {
+    border-top: 0;
+}
+
+tr {
+    color: ivory;
+    background: black;
+    transition: all 1s ease;
+}
+
+tr:hover {
+    color: #186c8f;
+    transition: all 1s ease;
+}
+
+.basket {
+    margin: 5px 0 10px;
+    text-transform: capitalize;
+}
+
+th:hover {
+    color: ivory;
+}
+
+.table > thead > tr > th {
+    border-bottom: 0;
+}
+
+.col-deal {
+    margin-top: 43px;
+}
+
+.thumbnail {
+    background-color: black;
+    box-shadow: 0 0 5px #499dc0;
+}
+
+.deal {
+    margin-top: 5px;
+    text-transform: capitalize;
+}
+
+h3 {
+    margin-top: -7px;
+    margin-bottom: 0px;
+    text-transform: uppercase;
+    margin-left: 7px;
+    color: ivory;
+}
+
+.btn-group,
+.btn-s,
+.btn-marg {
+    margin-left: 7px;
+}
+
+.img-bas {
+    border-radius: 4px;
+}
+
+.table > tbody > tr:hover {
+    background: black;
+}

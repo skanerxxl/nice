@@ -1,0 +1,42 @@
+.well {
+    background: #499dc0;
+    box-shadow: 0 0 5px #499dc0;
+}
+
+legend {
+    color: ivory;
+}
+
+.log {
+    width: 300px;
+    margin: auto;
+    padding-top: 20px;
+}
+
+.log-field,
+.log-btn {
+    margin: 5px 0 0;
+}
+
+.log-field {
+    background-color: #222222;
+    color: ivory;
+}
+
+.log-error {
+    color: red;
+    text-transform: capitalize;
+}
+
+.log-btn {
+    color: #186c8f;
+    background-color: #f6f6f6;
+    transition: all 1s ease;
+}
+
+.log-btn:hover {
+    color: #9AD8F2;
+    background-color: #222222;
+    border: 1px solid #9AD8F2;
+    transition: all 1s ease;
+}

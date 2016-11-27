@@ -1,0 +1,79 @@
+.navigation {
+    border-radius: 0;
+    background: #222222;
+    border: 0;
+    box-shadow: 0 0 5px #499dc0;
+    padding: 15px 0;
+}
+
+.navbar-brand {
+    padding-right: 30px;
+}
+
+.btn-group.btn-drop_navg {
+    margin: 12px;
+}
+
+.navbar-brand img {
+    position: relative;
+    top: -48px;
+    border-radius: 3px;
+    box-shadow: 0 0 5px #499dc0;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: ivory;
+    font-size: 20px;
+    text-transform: uppercase;
+    border-bottom: 1px solid #222222;
+    transition: all 1s ease;
+}
+
+.consumer > li > a:hover {
+    border-bottom: 1px solid ivory;
+    transition: all 1s ease;
+}
+
+.a-create {
+    margin-left: 15px;
+}
+
+.consumer {
+    background-color: #499dc0;
+    border-radius: 3px
+}
+
+.a-create:hover {
+    text-decoration: none;
+    border-bottom: 1px solid ivory;
+    color: #353535;
+    transition: all 1s ease;
+}
+
+.btn-drop_navg > a {
+    margin-right: 15px;
+    text-transform: uppercase;
+    font-size: 18px;
+    color: ivory;
+}
+
+.name_catgr:hover {
+    color: #353535;
+    text-decoration: none;
+    border-bottom: 1px solid ivory;
+    transition: all 1s ease;
+}
+
+.menu-drop {
+    text-transform: capitalize;
+}
+
+.info {
+    margin: 14px;
+    color: ivory;
+    font-size: 20px;
+}
+
+.dropdown-toggle.name_catgr {
+    margin-left: 0px;
+}

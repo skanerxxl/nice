@@ -1,0 +1,122 @@
+.modal-title {
+    text-transform: capitalize;
+    color: ivory;
+}
+
+.modal-content {
+    background: #499dc0;
+    box-shadow: 0 0 5px #499dc0;
+}
+
+.form-control {
+    background-color: #222222;
+    margin: 5px 0 0;
+    color: ivory;
+}
+
+.modal-group {
+    margin: 10px 0 0;
+}
+
+.del-title {
+    color: red;
+}
+
+.fileinput-new.thumbnail {
+    width: 200px;
+    background-color: #222222;
+}
+
+.fa.fa-photo.fa-3x.text-legend {
+    color: ivory;
+}
+
+.fileinput-preview.fileinput-exists.thumbnail {
+    padding: 0;
+    max-width: 200px;
+    max-height: 150px;
+}
+
+.btn.active.btn-file {
+    color: #186c8f;
+    background-color: #f6f6f6;
+    transition: all 1s ease;
+}
+
+.btn.active.btn-file:hover {
+    color: #9AD8F2;
+    background-color: #222222;
+    border: 1px solid #9AD8F2;
+    transition: all 1s ease;
+}
+
+.btn-d {
+    color: black;
+    background-color: #f6f6f6;
+    transition: all 1s ease;
+}
+
+.btn-d:hover {
+    color: ivory;
+    background-color: #222222;
+    border: 1px solid ivory;
+    transition: all 1s ease;
+}
+
+.btn-s {
+    color: green;
+    background-color: #f6f6f6;
+    transition: all 1s ease;
+}
+
+.btn-s:hover {
+    background-color: #222222;
+    color: #9ff59f;
+    border: 1px solid #9ff59f;
+    transition: all 1s ease;
+}
+
+.btn-p,
+.log-btn {
+    color: #186c8f;
+    background-color: #f6f6f6;
+    transition: all 1s ease;
+}
+
+.btn-p:hover,
+.log-btn:hover {
+    color: #9AD8F2;
+    background-color: #222222;
+    border: 1px solid #9AD8F2;
+    transition: all 1s ease;
+}
+
+.btn-w {
+    color: orangered;
+    background-color: #f6f6f6;
+    transition: all 1s ease;
+}
+
+.btn-w:hover {
+    color: #ff7e00;
+    border: 1px solid #ff7e00;
+    background-color: #222222;
+    transition: all 1s ease;
+}
+
+.btn-dg {
+    color: red;
+    background-color: #f6f6f6;
+    transition: all 1s ease;
+}
+
+.btn-dg:hover {
+    color: #ff3838;
+    border: 1px solid #ff3838;
+    background-color: #222222;
+    transition: all 1s ease;
+}
+
+.inpput-img {
+    margin-top: 5px;
+}

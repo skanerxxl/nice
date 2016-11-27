@@ -1,0 +1,64 @@
+.breadcrumb > li + li::before {
+    padding: 0 5px;
+    color: #ccc;
+    content: "\f105";
+    font-family: 'FontAwesome';
+}
+
+.breadcrumb > li + li:hover::before {
+    padding: 0 5px;
+    color: black;
+    content: "\f105";
+    font-family: 'FontAwesome';
+    transition: all 1s ease;
+}
+
+.container.container-bc {
+    margin-top: 35px;
+}
+
+.breadcrumb {
+    padding: 4px 10px;
+    margin-bottom: 0;
+    list-style: none;
+    background-color: black;
+}
+
+.li-bc {
+    border: 1px solid black;
+    transition: all 1s ease;
+}
+
+.li-bc:hover {
+    border-radius: 4px;
+    border: 1px solid ivory;
+    transition: all 1s ease;
+}
+
+.a-bc {
+    margin: 0 5px;
+    font-size: 18px;
+    color: #63ABF9;
+    transition: all 1s ease;
+}
+
+.a-bc:hover {
+    text-decoration: none;
+    color: ivory;
+    transition: all 1s ease;
+}
+
+.active.li-bca {
+    font-size: 18px;
+    color: ivory;
+}
+
+.fa.fa-home {
+    font-size: 25px;
+}
+
+.fa.fa-home:hover {
+    color: ivory;
+    transition: all 1s ease;
+}
+

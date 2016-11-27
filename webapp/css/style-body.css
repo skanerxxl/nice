@@ -1,0 +1,24 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+body {
+    background: black;
+    margin-bottom: 120px !important;
+}
+
+a,
+input,
+button {
+    outline: none !important;
+}
+
+.error {
+    color: orangered;
+    text-transform: uppercase;
+    background: #252525;
+}
+
+.error:hover {
+    color: ivory;
+}
